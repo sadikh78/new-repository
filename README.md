@@ -1,4 +1,4 @@
 # new-repository
-hi his is shaik sadikh
+hi This is shaik sadikh
 <br>
 nizam
