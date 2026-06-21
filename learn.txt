@@ -1,0 +1,27 @@
+//PYTHON//
+
+datatypes
+variables
+identifiers
+keywords
+strings
+1.addition programme
+2.type programme
+3.expreession execution
+4.input programme
+https://github.com/sadikh78/python.py.git
+
+//SQL// 
+1.database/table create
+2.database use
+3.database/table drop
+4.insert data in table
+5.select data from table(print)
+https://github.com/sadikh78/SQL-Programming.git
+
+
+
+
+//GIT&GITHUB -DONE//
+//AWS DEVOPS//
+//LINUX//
